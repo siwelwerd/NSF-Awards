@@ -1,0 +1,146 @@
+{
+ "awd_id": "2431268",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CIVIC-PG Track A:  Co-designing Toward Coastal Resilience: A Hybrid Approach for Restoring Hurricane and Climate Change-prone Seawalls and Dunes",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922441",
+ "po_email": "dliang@nsf.gov",
+ "po_sign_block_name": "Daan Liang",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2025-03-31",
+ "tot_intn_awd_amt": 75000.0,
+ "awd_amount": 75000.0,
+ "awd_min_amd_letter_date": "2024-08-13",
+ "awd_max_amd_letter_date": "2024-08-13",
+ "awd_abstract_narration": "This Civic Innovation Challenge (CIVIC) Stage 1 project will fund research that attempts to address severe damage caused by hurricanes Ian and Nicole to Florida's Central East Coast in late 2022, which resulted in significant damage to Volusia County and rendered numerous beachfront properties uninhabitable. A strategic restoration plan will be developed that combines hard structures like seawalls with natural elements such as sand and vegetation, resulting in \u201cliving seawalls.\u201d Such a restoration approach will enhance coastal resilience against future storms while promoting ecological and aesthetic benefits. By integrating natural and engineered solutions, the research will help stabilize dunes, protect habitats, and maintain beach access. This approach will balance environmental and economic needs, contributing to long-term community resilience. Furthermore, advanced climate modeling will be used in the design process to generate future storm scenarios, ensuring the effectiveness of these designs in the face of climate change. The research project will involve collaboration with local communities and stakeholders to develop a strategic plan that aligns with environmental policies, economic goals, and the coastal lifestyle. The anticipated results of this project include the development of a research agenda and evaluation metrics for a Stage 2 implementation. This project will advance the field by demonstrating the potential of hybrid coastal protection methods that take advantage of nature-based solutions. It will support education through community involvement, promotes diversity by engaging various stakeholders, and ultimately benefits society by enhancing coastal resilience, protecting property, and restoring natural habitats.\r\n\r\nStage 1 research will encompass community engagement workshops to consider, co-design, and adopt a research-based approach, schematics, and a location for the living seawall, potentially to be implemented in Stage 2 of the CIVIC solicitation. The workshop and potential implementation would focus on: a) adaptation of resilient natural foredunes, focusing on key ecological functions such as sand trapping, wind deflection, and habitat provision for species like sea turtles; b) design of the structural component which will integrate sophisticated climate modeling and stochastic simulations to assess performance under future climate scenarios; and c) consideration of socioeconomic and policy aspects involving stakeholders to co-design the seawalls, ensuring they meet ecological, aesthetic, and economic goals while adhering to environmental policies. The project will link ecosystem services such as property protection and recreation to community benefits and address permitting and insurance requirements. It will address structural endurance, ecological resilience, and socio-economic needs, providing guidelines for hybrid coastal restoration to bolster resilience against hurricanes amidst climate change. Measurable objectives include adopting a design aligned with regulations and securing shoreline properties for Stage 2 implementation and monitoring.\r\n\r\nThis project is in response to the Civic Innovation Challenge program\u2019s Track A. Climate and Environmental Instability - Building Resilient Communities through Co-Design, Adaption, and Mitigation and is a collaboration between NSF, the Department of Homeland Security, and the Department of Energy.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Siddharth",
+   "pi_last_name": "Parida",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Siddharth S Parida",
+   "pi_email_addr": "paridas@erau.edu",
+   "nsf_id": "000817469",
+   "pi_start_date": "2024-08-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hyun Jung",
+   "pi_last_name": "Cho",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hyun Jung Cho",
+   "pi_email_addr": "choh@cookman.edu",
+   "nsf_id": "000358627",
+   "pi_start_date": "2024-08-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Georgios",
+   "pi_last_name": "Apostolakis",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Georgios Apostolakis",
+   "pi_email_addr": "georgios.apostolakis@ucf.edu",
+   "nsf_id": "000768254",
+   "pi_start_date": "2024-08-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Stephen",
+   "pi_last_name": "Medeiros",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Stephen C Medeiros",
+   "pi_email_addr": "medeiros@erau.edu",
+   "nsf_id": "000959762",
+   "pi_start_date": "2024-08-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Kelly",
+   "pi_last_name": "San Antonio",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kelly M San Antonio",
+   "pi_email_addr": "sanantoniok@cookman.edu",
+   "nsf_id": "0000A02F7",
+   "pi_start_date": "2024-08-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Embry-Riddle Aeronautical University",
+  "inst_street_address": "1 AEROSPACE BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "DAYTONA BEACH",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3862267695",
+  "inst_zip_code": "321143910",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "FL06",
+  "org_lgl_bus_name": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U5MMBAC9XAM5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Embry-Riddle Aeronautical University",
+  "perf_str_addr": "1 AEROSPACE BLVD",
+  "perf_city_name": "DAYTONA BEACH",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "321143910",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "FL06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "033Y00",
+   "pgm_ele_name": "S&CC: Smart & Connected Commun"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "042Z",
+   "pgm_ref_txt": "S&CC: Smart and Connected Communities"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 75000.0
+  }
+ ],
+ "por": null
+}

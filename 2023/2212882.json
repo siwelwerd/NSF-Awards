@@ -1,0 +1,98 @@
+{
+ "awd_id": "2212882",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I:  Compact, low-maintenance water treatment plant",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922174",
+ "po_email": "rmehta@nsf.gov",
+ "po_sign_block_name": "Rajesh Mehta",
+ "awd_eff_date": "2023-02-15",
+ "awd_exp_date": "2025-01-31",
+ "tot_intn_awd_amt": 255849.0,
+ "awd_amount": 255849.0,
+ "awd_min_amd_letter_date": "2023-02-15",
+ "awd_max_amd_letter_date": "2023-02-15",
+ "awd_abstract_narration": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be the development of a low footprint drinking water treatment plant (WTP) suited to facilitate much-needed upgrades to the nation\u2019s water infrastructure. Today\u2019s drinking water treatment systems are suffering from high volumes of generated waste (~100,000 tons sludge per typical plant per year) and high maintenance requirements and costs (4x/year week-long clarifier decommissioning for cleaning). The aging infrastructure of many of the nation\u2019s water treatment plants has left millions of Americans with inadequate drinking water. This situation, paired with the aging and shrinking water operator workforce, translates into a growing threat of water supply interruptions and noncompliance. Owing to its small footprint and low energy and maintenance demands, the proposed technology would deliver an easily implementable solution that could be adopted by communities and water systems around the world, even in remote areas. Successfully developed, the WTP will offer a unique economic opportunity to meet critical global sustainable development goals and promote human health and welfare. This technology will lower the barriers to upgrading the nation\u2019s water infrastructure, creating jobs through the introduction of long-delayed upgrades through plant implementation.\r\n\r\nElements of the innovation under development for the proposed water treatment plant include a self-modulating feedback/feedforward controller driving automated coagulant dosing, which is paired with a high-efficiency hydraulic flocculator that leverages turbulent flow to promote floc formation while remaining free of failure-prone moving parts; a self-cleaning clarifier fitted with settling plates and a sludge blanket system for efficient contaminant removal; a stacked sand filter that decreases the hydraulic loading rate for a given flow and bed volume, resulting in improved stability of the deposited particles (i.e., reduced shear and particle breakthrough); and a continuous sludge dewatering and treatment system that decreases the volume of produced sludge while also providing a continuous waste stream for further processing. While early efforts have established a proof-of-concept demonstrating operations at 50% less energy demand than conventional systems, continued research and development to improve system performance and autonomy are needed. In line with this effort, the Phase I effort will focus on: 1) development of an automated control system for precise coagulant dosing; 2) design modification to minimize waste stream volume; and 3) design and construction of a pilot plant with 15 gallons per minute capacity, suitable to meet the water treatment needs of communities of ~300 people.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Marcin",
+   "pi_last_name": "Sawczuk",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Marcin Sawczuk",
+   "pi_email_addr": "mas874@cornell.edu",
+   "nsf_id": "000868933",
+   "pi_start_date": "2023-02-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "FIRST WATER TECHNOLOGY CO.",
+  "inst_street_address": "5321 S CHARITON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6072624869",
+  "inst_zip_code": "900561354",
+  "inst_country_name": "United States",
+  "cong_dist_code": "37",
+  "st_cong_dist_code": "CA37",
+  "org_lgl_bus_name": "FIRST WATER TECHNOLOGY CO.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Q6D8JTRUUJR7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Cornell Water Filtration Plant",
+  "perf_str_addr": "129 Humphreys Service Building",
+  "perf_city_name": "Ithaca",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "148533701",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1238",
+   "pgm_ref_txt": "TECH FOR SUSTAINABLE ENVIRONMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01AB2324DB",
+   "fund_name": "R&RA DRSA DEFC AAB",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 255849.0
+  }
+ ],
+ "por": null
+}

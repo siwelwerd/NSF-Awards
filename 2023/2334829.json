@@ -1,0 +1,118 @@
+{
+ "awd_id": "2334829",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RAPID: Exploring an AI Literacies Framework for Young Children: A Delphi Study",
+ "cfda_num": "47.076",
+ "org_code": "11090000",
+ "po_phone": null,
+ "po_email": "",
+ "po_sign_block_name": "Chia Shen",
+ "awd_eff_date": "2023-09-15",
+ "awd_exp_date": "2024-08-31",
+ "tot_intn_awd_amt": 199920.0,
+ "awd_amount": 199920.0,
+ "awd_min_amd_letter_date": "2023-09-05",
+ "awd_max_amd_letter_date": "2023-09-05",
+ "awd_abstract_narration": "Artificial intelligence (AI) is rapidly transforming society, and it is becoming increasingly clear to educators and researchers that K-12 students must be prepared for an AI-driven future. One crucial area that requires research is early childhood education (ECE) for children aged 5 to 8 years old. The potential impact of AI on early childhood cannot be overstated: there are far-reaching implications for language development, cognitive skills, sensory perception, and social-emotional development, which are the holistic goals of ECE. Prior research suggests that exposing young children to AI is feasible and can have positive effects on their AI knowledge and skills. These studies often focus exclusively on how children learn with and about AI, without fully considering the holistic goals and practices of ECE. There is an urgent need to address such issues in ECE AI education and ensure early AI learning is appropriate, effective, and equitable. This proposal was received in response to the Dear Colleague Letter (DCL): Rapidly Accelerating Research on Artificial Intelligence in K-12 Education in Formal and Informal Settings (NSF 23-097) and funded by the Innovative Technology Experiences for Students and Teachers (ITEST) program, which supports projects that build understandings of practices, program elements, contexts and processes contributing to increasing students' knowledge and interest in science, technology, engineering, and mathematics (STEM) and information and communication technology (ICT) careers.\r\n\r\nThis project will develop an interdisciplinary framework for ECE AI learning by using the Delphi methodology, an iterative process of converging expert opinions on emerging topics. A panel of 30 experts of diverse and inclusive representation from three fields: AI, Child Development and Early Education, and Child-Computer Interaction will be recruited. These experts will explore three fundamental questions across cognitive, situated, and critical framing of AI.  (1) What: What are the most appropriate AI learning goals and content for young children? (2) Who: What developmental advantages/constraints and equity concerns must be considered for AI learning? and (3) How: How can we introduce AI effectively and equitably? The research process involves three iterative rounds of discussion, survey, and review of materials prepared and synthesized by the research team. By articulating the underlying concepts and principles of AI literacies in ECE through cognitive, situated, and critical framing and from multidisciplinary perspectives, the resulting framework will help advance our understanding of how young children can develop knowledge and skills related to AI and inform future endeavors in this area, with particular attention to individuals with special needs and cultural relevance to marginalized and underserved communities. The outcome of the project also has the potential to guide the development of age-appropriate curricula and pedagogy for young children as well as provide a basis for assessing and evaluating AI literacies in young children.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "DRL",
+ "org_div_long_name": "Division of Research on Learning in Formal and Informal Settings (DRL)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xiaohui",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xiaohui C Wang",
+   "pi_email_addr": "wangxc@buffalo.edu",
+   "nsf_id": "000295916",
+   "pi_start_date": "2023-09-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Christopher",
+   "pi_last_name": "Proctor",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christopher Proctor",
+   "pi_email_addr": "chrisp@buffalo.edu",
+   "nsf_id": "000843227",
+   "pi_start_date": "2023-09-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Buffalo",
+  "inst_street_address": "520 LEE ENTRANCE STE 211",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "7166452634",
+  "inst_zip_code": "142282577",
+  "inst_country_name": "United States",
+  "cong_dist_code": "26",
+  "st_cong_dist_code": "NY26",
+  "org_lgl_bus_name": "THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "GMZUKXFDJMA9",
+  "org_uei_num": "LMCJKRFW5R81"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Buffalo",
+  "perf_str_addr": "505 Baldy Hall",
+  "perf_city_name": "Buffalo",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "142601000",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "26",
+  "perf_st_cong_dist": "NY26",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "722700",
+   "pgm_ele_name": "ITEST-Inov Tech Exp Stu & Teac"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8212",
+   "pgm_ref_txt": "Broaden Particip STEM Resrch"
+  },
+  {
+   "pgm_ref_code": "7914",
+   "pgm_ref_txt": "RAPID"
+  },
+  {
+   "pgm_ref_code": "093Z",
+   "pgm_ref_txt": "AI Education/Workforce Develop"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "1300PYXXDB",
+   "fund_name": "H-1B FUND, EDU, NSF",
+   "fund_symb_id": "045176"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 199920.0
+  }
+ ],
+ "por": null
+}
